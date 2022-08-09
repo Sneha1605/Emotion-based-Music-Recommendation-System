@@ -1,0 +1,2 @@
+# Emotion-based-Music-Recommendation-System
+Emotion-driven recommendation system, which recommends music based on the real-time mood of the user. Emotion Detection is done by taking an image of the user's face as an input and identifying their mood using convolutional neural networks. Based on the emotion detected, a playlist is recommended to the user which consists of songs suitable to the mood of the user. 
